@@ -1,7 +1,7 @@
 
         
-<h2> TerminalBen's page. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> TerminalBen's page.</h2>
+<img align="right" alt="GIF" src="https://gph.is/g/naNpxM4" width="200"/>
 
 <h3> 👨🏻‍💻 About </h3>
 
