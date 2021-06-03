@@ -26,9 +26,10 @@
 
 </br>
 
-
+<p align="center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalBen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/TerminalBen/github-readme-stats)
-
+</p>
+          
 <h3 align="center"> Find me aroud the web... (or not) </h3>
 
 <p align="center"> 
