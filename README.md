@@ -1,7 +1,7 @@
 
         
 <h2> TerminalBen's page.</h2>
-<img align="right" alt="GIF" src="https://gph.is/g/naNpxM4.gif" width="200"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1qXjniLSOpxEmscAu6/giphy.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About </h3>
 
@@ -15,7 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django | Flask | Tensorflow | Node.js | JavaScript | Java | Spring
+- 💻 &nbsp; Python | Django | Flask | Tensorflow | Node.js | JavaScript | Java | Spring | CSS
 - 🌐 &nbsp; Dart | Pyqt | Kivy 
 - 🛢 &nbsp; MySQL | Firebase | Postgree | SQLite
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse| Git
