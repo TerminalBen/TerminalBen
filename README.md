@@ -1,7 +1,7 @@
 
         
 <h2> TerminalBen's page.</h2>
-<img align="right" alt="GIF" src="https://gph.is/g/naNpxM4" width="200"/>
+<img align="right" alt="GIF" src="https://gph.is/g/naNpxM4.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About </h3>
 
@@ -27,7 +27,7 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalBen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/TerminalBen/github-readme-stats)
 
 <h3> Find me aroud the web... (or not) </h3>
 
