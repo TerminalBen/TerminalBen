@@ -9,9 +9,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studied Computer Science, and am currently enroled in computer engineering and networks
 - 💼 &nbsp; Python developer and backend web developer.
-- 🌱 &nbsp; A couple of sideprojects involve Arduinos and raspberry pi's
-- ✍️ &nbsp; Experienced as a freelancer programmer, and systems engineer
-- ☕ &nbsp; 
+- 🌱 &nbsp; A couple of sideprojects involving Arduinos and raspberry pi's
+- ✍️ &nbsp; Experience as a freelancer programmer, and systems manager
 
 <h3>🛠 Tech Stack</h3>
 
