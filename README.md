@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalBen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/TerminalBen/github-readme-stats)
 
           
-<h3 align="center"> Find me aroud the web... (or not) </h3>
+<h3 align="center"> Find me around the web... (or not) </h3>
 
 <p align="center"> 
 &nbsp; <a href="https://www.linkedin.com/in/bento-lima-466327125/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
