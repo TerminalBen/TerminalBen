@@ -1,7 +1,6 @@
 
         
 <h2> TerminalBen's page.</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1qXjniLSOpxEmscAu6/giphy.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About </h3>
 
