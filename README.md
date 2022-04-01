@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About </h3>
 
-- 🔭 &nbsp; I’m currently dipping my toes on Machine Learning and Neural Networks
+- 🔭 &nbsp; I’m currently working on my DevOps Certification with Docker/Kubernetes
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studied Computer Science, and am currently enroled in computer engineering and networks
 - 💼 &nbsp; Python developer and backend web developer.
@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django | Flask | Tensorflow | Node.js | JavaScript | Java | Spring | CSS
+- 💻 &nbsp; Python | Django | Flask | Tensorflow | Node.js | JavaScript 
 - 🌐 &nbsp; Dart | Pyqt | Kivy 
 - 🛢 &nbsp; MySQL | Firebase | Postgree | SQLite
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse| Git
