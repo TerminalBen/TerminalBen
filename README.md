@@ -4,18 +4,16 @@
 
 <h3> 👨🏻‍💻 About </h3>
 
-- 🔭 &nbsp; I’m currently working on my DevOps Certification with Docker & Kubernetes
-- 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Computer Science || computer engineering & networks
 - 💼 &nbsp; C# || Python developer and backend developer.
-- ✍️ &nbsp; Experience as a freelancer programmer, and systems manager
+- ✍️ &nbsp; Experience as a freelancer Software Developer, and systems engineer
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | C#
 - 🌐 &nbsp; Pyqt | FastApi | .NET | Django | Flask | Tensorflow | Node.js 
 - 🛢 &nbsp; MySQL | Firebase | Postgree | SQLite | NoSQL | Docker | Linux Servers
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio | Eclipse| Git
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio | Git
 
 
 
